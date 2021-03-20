@@ -8,7 +8,6 @@ This repo offers various math math methods those are used as a helper for your p
 * (TBA...)
 
 #### Connect me via:
-[My facebook](https://facebook.com/giao.lang.bis)  
-[My email](mail to: hoang.nguyenthe@gmail.com)
+[My facebook](https://facebook.com/giao.lang.bis)[My email](mail to: hoang.nguyenthe@gmail.com)
 
 ©2021 giao.lang

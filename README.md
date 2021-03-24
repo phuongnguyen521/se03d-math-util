@@ -1,5 +1,5 @@
 ## Welcome to Math Utility repository.  
-[![MathUtility project | CI prodcess included | © 2021 by PhuongNguyen521](https://github.com/phuongnguyen521/se03d-math-util/actions/workflows/mathutil-%20ci-actions.yml/badge.svg)](https://github.com/phuongnguyen521/se03d-math-util/actions/workflows/mathutil-%20ci-actions.yml)
+[![MathUtility project | CI prodcess included | © 2021 by PhuongNguyen521](https://github.com/phuongnguyen521/se03d-math-util/actions/workflows/mathutil-%20ci-actions.yml/badge.svg)](https://github.com/phuongnguyen521/se03d-math-util/actions/workflows/mathutil-%20ci-actions.yml)  
 This repo offers various math math methods those are used as a helper for your project.
 
 ### **_You will in this repo the following stuff:_**

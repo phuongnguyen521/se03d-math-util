@@ -29,7 +29,7 @@ public class Main {
         n = 0;
         expected = 1;
         actual = MathUtility.getFactorial(n);
-        System.out.println("5! expected: " + expected + "\nactual: " + actual);
+        System.out.println("1! expected: " + expected + "\nactual: " + actual);
     }
     
 }
